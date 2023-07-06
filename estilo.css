@@ -1,5 +1,5 @@
 body {
-    background: rgb(139, 139, 255);
+    background: rgb(111, 219, 238);
     font: normal 15pt Arial; 
 }
 
@@ -18,7 +18,7 @@ section {
 }
 
 ul {
-    color:white;
+    color:rgb(0, 0, 0);
 }
 
 footer {
