@@ -3,7 +3,7 @@ body {
     font: normal 15pt Arial; 
 }
 
-head {
+header {
     color:white;
     text-align: center;
 }
@@ -19,7 +19,6 @@ section {
 
 ul {
     color:white;
-    text-align: center;
 }
 
 footer {
