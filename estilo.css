@@ -17,6 +17,11 @@ section {
     box-shadow: 5px 5px 10px black;
 }
 
+ul {
+    color:white;
+    text-align: center;
+}
+
 footer {
     color:white;
     text-align: center;
