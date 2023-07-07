@@ -7,11 +7,14 @@ function carregar() {
     if (hora >= 0 && hora < 12){
         //Bom Dia!
         img.src = 'fotomanha.jpg'
+        document.body.style.background = '#FFD700'
     }else if (hora >= 12 && hora < 18){
         //Boa Tarde!
         img.src = 'fototarde.jpg'
+        document.body.style.background = '#808080'
     }else{
         //Boa Noite!
         img.src = 'fotonoite.jpg'
+        document.body.style.background = '#00009C'
     }
 }
